@@ -5,4 +5,4 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
-rootProject.name = 'discoveryservice'
+rootProject.name = 'discovery-service'
